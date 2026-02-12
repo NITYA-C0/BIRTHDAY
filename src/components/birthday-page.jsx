@@ -231,7 +231,7 @@ export default function BirthdayPage() {
             <div className="w-40 h-40 md:w-48 md:h-48 rounded-full border-4 border-pink-400 shadow-2xl overflow-hidden bg-white">
               <img 
                 src="/birthday.jpeg" 
-                alt="Shashank"
+                alt="My love"
                 className="w-full h-full object-cover"
               />
             </div>
